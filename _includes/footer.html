@@ -2,19 +2,18 @@
   <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
   <div class="wrapper">
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-      <div class="footer-col footer-col-1">
-        <p>{{ site.description | escape }}</p>
+    {% assign repo_url = site.repository_url | default: site.github.repository_url %}
+    <div class="footer-main">
+      <div class="footer-left">
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <p class="footer-description">{{ site.description | escape }}</p>
       </div>
 
-      <div class="footer-col footer-col-2">
-        {% assign repo_url = site.repository_url | default: site.github.repository_url %}
+      <div class="footer-right">
         {% if repo_url %}
-        <p><a href="{{ repo_url }}">Source on GitHub</a></p>
+        <a href="{{ repo_url }}">Source on GitHub</a>
         {% endif %}
       </div>
     </div>
   </div>
 </footer>
-
