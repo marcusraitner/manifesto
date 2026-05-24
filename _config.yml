@@ -3,6 +3,8 @@ description: Open, collaborative edition of the book
 theme: minima
 markdown: kramdown
 permalink: pretty
+header_pages:
+  - index.md
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -11,4 +13,3 @@ relative_links:
 kramdown:
   input: GFM
   auto_ids: true
-

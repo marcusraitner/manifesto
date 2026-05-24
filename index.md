@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Home
+title: Table of Contents
 permalink: /
 ---
-
-This is the MVP for the open writing project. It currently contains the landing page plus **Chapter 1** with section deep links and footnotes.
-
-## Table of Contents
 
 - [Pain of Adaptation](chapters/01-pain-of-adaptation.md)
   - [Love it](chapters/01-pain-of-adaptation.md#love-it)
