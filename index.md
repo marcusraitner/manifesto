@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manifesto for Humane Leadership
+title: Home
 permalink: /
 ---
 
@@ -12,16 +12,9 @@ This is the MVP for the open writing project. It currently contains the landing 
   - [Love it](chapters/01-pain-of-adaptation.md#love-it)
   - [Leave it](chapters/01-pain-of-adaptation.md#leave-it)
   - [Change it](chapters/01-pain-of-adaptation.md#change-it)
-- Persistent in Efforts, Modest in Expectations *(coming soon)*
-- The Human in the Digital *(coming soon)*
-- Six Theses for New Leadership *(coming soon)*
-- The 14 Principles Behind the Manifesto *(coming soon)*
-- Get to Work! *(coming soon)*
-- Addendum: Workshop-Formats *(coming soon)*
-
-## Contribution MVP Scope
-
-- One-time HTML to Markdown migration for Chapter 1
-- Stable deep links to chapter sections
-- Native Markdown footnotes rendered by Jekyll/Kramdown
-
+- Persistent in Efforts, Modest in Expectations _(coming soon)_
+- The Human in the Digital _(coming soon)_
+- Six Theses for New Leadership _(coming soon)_
+- The 14 Principles Behind the Manifesto _(coming soon)_
+- Get to Work! _(coming soon)_
+- Addendum: Workshop-Formats _(coming soon)_
