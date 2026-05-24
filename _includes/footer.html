@@ -4,11 +4,8 @@
   <div class="wrapper">
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <p class="feed-subscribe">
-          <a href="{{ '/' | relative_url }}">Home</a>
-        </p>
+        <p>{{ site.description | escape }}</p>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -16,10 +13,6 @@
         {% if repo_url %}
         <p><a href="{{ repo_url }}">Source on GitHub</a></p>
         {% endif %}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
   </div>
