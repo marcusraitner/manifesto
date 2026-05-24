@@ -1,0 +1,14 @@
+title: Manifesto for Humane Leadership
+description: Open, collaborative edition of the book
+theme: minima
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+kramdown:
+  input: GFM
+  auto_ids: true
+
