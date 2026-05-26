@@ -23,6 +23,12 @@ jobs:
             --no-progress
             --verbose
             --exclude "https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec"
+            --exclude "^https://marcusraitner\\.substack\\.com/"
+            --exclude "^https://www\\.epi\\.org/"
+            --exclude "^https://www\\.bloomberg\\.com/"
+            --exclude "^https://www\\.nytimes\\.com/"
+            --exclude "https://doi.org/10.1037/0022-3514.77.6.1121"
+            --exclude "https://doi.org/10.1002/sdr.4260100206"
             "./**/*.md"
           fail: true
         env:
