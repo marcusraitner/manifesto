@@ -100,19 +100,34 @@ This choice has been there forever, but in this global crisis, it has become eve
 
 ---
 
-[^1]: Frederic Laloux and Ken Wilber, *Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness* (Nelson Parker, 2014).
-[^2]: Götz W. Werner, *Womit ich nie gerechnet habe: die Autobiographie*, 5. Auflage, List-Taschenbuch 61254 (Berlin: List Taschenbuch, 2019).
-[^3]: Karlheinz A. Geißler, *Alles hat seine Zeit, nur ich hab keine Wege in eine neue Zeitkultur* (München: Oekom Verlag, 2014), 232.
-[^4]: Werner, *Womit ich nie gerechnet habe*, 173.
+[^1]: Frederic Laloux and Ken Wilber, _Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness_ (Nelson Parker, 2014).
+
+[^2]: Götz W. Werner, _Womit ich nie gerechnet habe: die Autobiographie_, 5. Auflage, List-Taschenbuch 61254 (Berlin: List Taschenbuch, 2019).
+
+[^3]: Karlheinz A. Geißler, _Alles hat seine Zeit, nur ich hab keine Wege in eine neue Zeitkultur_ (München: Oekom Verlag, 2014), 232.
+
+[^4]: Werner, _Womit ich nie gerechnet habe_, 173.
+
 [^5]: Kent Beck et al., "Manifesto for Agile Software Development," 2001, https://agilemanifesto.org/
-[^6]: Douglas McGregor and Joel Cutcher-Gershenfeld, *The Human Side of Enterprise*, Annotated ed (New York: McGraw-Hill, 2006).
-[^7]: Peter F. Drucker, *Landmarks of Tomorrow*, Harper Colophon Books (Harper, 1959).
-[^8]: McGregor and Cutcher-Gershenfeld, *The Human Side of Enterprise*.
-[^9]: Peter F. Drucker and Joseph A. Maciariello, *Management*, Rev. ed (New York, NY: Collins, 2008), 72.
+
+[^6]: Douglas McGregor and Joel Cutcher-Gershenfeld, _The Human Side of Enterprise_, Annotated ed (New York: McGraw-Hill, 2006).
+
+[^7]: Peter F. Drucker, _Landmarks of Tomorrow_, Harper Colophon Books (Harper, 1959).
+
+[^8]: McGregor and Cutcher-Gershenfeld, _The Human Side of Enterprise_.
+
+[^9]: Peter F. Drucker and Joseph A. Maciariello, _Management_, Rev. ed (New York, NY: Collins, 2008), 72.
+
 [^10]: Drucker and Maciariello, 72.
+
 [^p2-1]: Arianne Cohen, “How to Quit Your Job in the Great Post-Pandemic Resignation Boom,” Bloomberg Businessweek, May 10, 2021, <https://www.bloomberg.com/news/articles/2021-05-10/quit-your-job-how-to-resign-after-covid-pandemic>.
+
 [^p2-2]: “JOLTS,” Economic Policy Institute, accessed October 3, 2024, <https://www.epi.org/indicators/jolts/>.
+
 [^p2-3]: Jason Fried, David Heinemeier Hansson, and David Heinemeier Hansson, ReWork: Change the Way You Work Forever (London: Vermilion, 2010).
-[^p2-4]: Jim Whitehurst, *The Open Organization: Igniting Passion and Performance* (Boston, Massachusetts: Harvard Business Review Press, 2015).
-[^p2-5]: Kathryn Vasel, “These Companies Decided to Go Fully Remote -- Permanently | CNN Business,” CNN, January 27, 2022, <https://www.cnn.com/2022/01/27/success/full-time-remote-decision-pandemic/index.html>.
-[^p2-6]: Robert Frost, “A Group of Poems,” *The Atlantic*, August 1, 1915, <https://www.theatlantic.com/magazine/archive/1915/08/a-group-of-poems/306620/>.
+
+[^p2-4]: Jim Whitehurst, _The Open Organization: Igniting Passion and Performance_ (Boston, Massachusetts: Harvard Business Review Press, 2015).
+
+[^p2-5]: Kathryn Vasel, “These Companies Decided to Go Fully Remote -- Permanently \| CNN Business,” CNN, January 27, 2022, <https://www.cnn.com/2022/01/27/success/full-time-remote-decision-pandemic/index.html>.
+
+[^p2-6]: Robert Frost, “A Group of Poems,” _The Atlantic_, August 1, 1915, <https://www.theatlantic.com/magazine/archive/1915/08/a-group-of-poems/306620/>.
