@@ -22,7 +22,13 @@ permalink: /
   - [The Eighth Type of Waste](chapters/03-the-human-in-the-digital.md#the-eighth-type-of-waste)
   - [Respect for People](chapters/03-the-human-in-the-digital.md#respect-for-people)
   - [Super Chicken](chapters/03-the-human-in-the-digital.md#super-chicken)
-- Six Theses for New Leadership _(coming soon)_
+- [Six Theses for New Leadership](chapters/04-six-theses-for-new-leadership.md)
+  - [Human Potential, Not Human Resources](chapters/04-six-theses-for-new-leadership.md#human-potential-not-human-resources)
+  - [Diversity and Dissent](chapters/04-six-theses-for-new-leadership.md#diversity-and-dissent)
+  - [Leading with Purpose and Trust](chapters/04-six-theses-for-new-leadership.md#leading-with-purpose-and-trust)
+  - [Network and Hierarchy](chapters/04-six-theses-for-new-leadership.md#network-and-hierarchy)
+  - [Encounter at Eye Level](chapters/04-six-theses-for-new-leadership.md#encounter-at-eye-level)
+  - [The Art of Ambidexterity](chapters/04-six-theses-for-new-leadership.md#the-art-of-ambidexterity)
 - The 14 Principles Behind the Manifesto _(coming soon)_
 - Get to Work! _(coming soon)_
 - Addendum: Workshop-Formats _(coming soon)_
