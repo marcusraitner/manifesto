@@ -22,7 +22,7 @@ jobs:
           ruby-version: "3.3"
 
       - name: Install Jekyll
-        run: gem install jekyll minima --no-document
+        run: gem install jekyll minima jekyll-relative-links --no-document
 
       - name: Build site
         run: jekyll build
