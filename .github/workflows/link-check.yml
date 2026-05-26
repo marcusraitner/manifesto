@@ -33,6 +33,7 @@ jobs:
           args: >-
             --no-progress
             --verbose
+            --root-dir "./_site"
             --exclude "https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec"
             --exclude "^https://marcusraitner\\.substack\\.com/"
             --exclude "^https://www\\.epi\\.org/"
