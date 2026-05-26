@@ -4,6 +4,8 @@ title: Pain of Adaptation
 permalink: /chapters/pain-of-adaptation/
 ---
 
+![Pain of Adaptation]({{ '/assets/images/chapters/01/ch1-cover.jpg' | relative_url }})
+
 ## Love it {#love-it}
 
 In mid-2010, I started as a Senior Partner at esc Solutions, a newly founded start-up in IT project management with all gradations between classic and agile. There were three of us, full of drive and idealism. Although we didn't yet know exactly what we stood for and what we would offer in concrete terms apart from our workforce and time, we knew for sure that we wanted to work completely different from how we had previously experienced it in IT consulting. So it was more the "away from" and "completely different" than a grand vision that united us. At least that's how I felt.

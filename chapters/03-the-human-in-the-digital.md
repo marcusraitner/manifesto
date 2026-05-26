@@ -4,6 +4,8 @@ title: The Human in the Digital
 permalink: /chapters/the-human-in-the-digital/
 ---
 
+![The Human in the Digital]({{ '/assets/images/chapters/03/ch3-cover-human-in-the-digital.jpg' | relative_url }})
+
 ## A Brief History of Digitalization {#a-brief-history-of-digitalization}
 
 Digitalization will not replace the human. The unique human elements will be even more valuable in a more digital world. This refers, in particular, to our ability to find _creative_ solutions in teams and organizations and to work together effectively and efficiently to achieve the set goals. When we talk about the human factor in general and humane leadership in particular, it is always about how we can achieve great things together--especially against the backdrop of complex, global problems such as climate change. Solutions to those global challenges will be much less the achievement of individual masterminds, top performers, and heroes than is generally assumed and often portrayed.
@@ -41,6 +43,8 @@ This kind of socialization and training immediately explains the fear of automat
 One day, machines and computers might be able to find better answers and solve problems better than humans. But with their innate curiosity, only humans can ask the right questions. This constant questioning is the crucial human core competence in a world that is changing ever faster. We now "only" have to restructure and manage organizations to nurture this curiosity sufficiently.
 
 The _more complex_ the problems become, the more critical our human creativity becomes. However, this does not mean increased difficulty but rather a different category of problems and situations.
+
+![The Whole and Its Parts]({{ '/assets/images/chapters/03/ch3-cover-whole-and-parts.jpg' | relative_url }})
 
 ## The Whole and Its Parts {#the-whole-and-its-parts}
 
@@ -101,6 +105,8 @@ Paul MacCready followed his instincts and approached this problem more empirical
 > The real challenge was not to build an elegant plane that could fly the figure eight around the two posts on the field but to develop a large, lightweight plane, "no matter how ugly it is," that could be "repaired, modified, changed and redesigned again after a crash—and quickly." At that moment, he suddenly realized: "There's an easy way to do it."
 
 Anyone who has spent many years of their education and professional life successfully using a hammer on different types of nails will find it challenging to recognize the screw and change the tool. At first glance, the Kremer Prize appeared to be a rather complicated problem—or at least the experienced engineers thought it was. In reality, however, the complexity was dominated by the restriction of a single parameter, namely, powering it solely through the muscle power of a person. It was only through the empirical approach of trial and error that Paul MacCready, as a layman, succeeded in doing what the experts before him had been denied for so long.
+
+![The Eighth Type of Waste]({{ '/assets/images/chapters/03/ch3-cover-eighth-waste.jpg' | relative_url }})
 
 ## The Eighth Type of Waste {#the-eighth-type-of-waste}
 
