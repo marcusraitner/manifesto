@@ -41,6 +41,8 @@ jobs:
             --exclude "^https://www\\.nytimes\\.com/"
             --exclude "https://doi.org/10.1037/0022-3514.77.6.1121"
             --exclude "https://doi.org/10.1002/sdr.4260100206"
+            --exclude "https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/"
+            --exclude "https://doi.org/10.1037/h0044683"
             "./_site/**/*.html"
           fail: true
         env:

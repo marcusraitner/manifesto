@@ -44,5 +44,10 @@ permalink: /
   - [He Who Says A Does Not Have to Say B](chapters/the-14-principles-behind-the-manifesto/#he-who-says-a-does-not-have-to-say-b)
   - [Integrity Over Charisma](chapters/the-14-principles-behind-the-manifesto/#integrity-over-charisma)
   - [Disturbing the Comfort Zone](chapters/the-14-principles-behind-the-manifesto/#disturbing-the-comfort-zone)
-- Get to Work! _(coming soon)_
+- [Get to Work!](chapters/get-to-work/)
+  - [Leading by Example](chapters/get-to-work/#leading-by-example)
+  - [Incitement to Rebellion](chapters/get-to-work/#incitement-to-rebellion)
+  - [Set Priorities](chapters/get-to-work/#set-priorities)
+  - [Enduring Dissonance](chapters/get-to-work/#enduring-dissonance)
+  - [Doing Your Best](chapters/get-to-work/#doing-your-best)
 - Addendum: Workshop-Formats _(coming soon)_
