@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 3 – The Human in the Digital
+title: The Human in the Digital
 permalink: /chapters/the-human-in-the-digital/
 ---
 

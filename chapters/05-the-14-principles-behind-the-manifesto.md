@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 5 – The 14 Principles Behind the Manifesto
+title: The 14 Principles Behind the Manifesto
 permalink: /chapters/the-14-principles-behind-the-manifesto/
 ---
 

@@ -4,12 +4,6 @@ title: Table of Contents
 permalink: /
 ---
 
-*Six Theses and 14 Principles for New Leadership in the Age of Digitalization*
-
-<p align="center">
-  <img src="{{ '/assets/images/manifesto-cover.webp' | relative_url }}" alt="Manifesto for Humane Leadership cover" width="360" />
-</p>
-
 - [Pain of Adaptation](chapters/pain-of-adaptation/)
   - [Love it](chapters/pain-of-adaptation/#love-it)
   - [Leave it](chapters/pain-of-adaptation/#leave-it)

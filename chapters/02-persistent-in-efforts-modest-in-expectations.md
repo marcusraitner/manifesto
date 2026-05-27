@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 2 – Persistent in Efforts, Modest in Expectations
+title: Persistent in Efforts, Modest in Expectations
 permalink: /chapters/persistent-in-efforts-modest-in-expectations/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chapter 6 – Get to Work!
+title: Get to Work!
 permalink: /chapters/get-to-work/
 ---
 
