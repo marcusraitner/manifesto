@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Addendum: Workshop-Formats
+title: "Addendum: Workshop-Formats"
 permalink: /chapters/addendum-workshop-formats/
 ---
 
