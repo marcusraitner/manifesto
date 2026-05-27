@@ -53,4 +53,4 @@ permalink: /
 - [Addendum: Workshop-Formats](chapters/addendum-workshop-formats/)
   - [Workshop Format for Small Groups](chapters/addendum-workshop-formats/#workshop-format-for-small-groups)
   - [Parallel Group Variant](chapters/addendum-workshop-formats/#parallel-group-variant)
-  - [1-2-4-All for Larger Groups](chapters/addendum-workshop-formats/#1-2-4-all-for-larger-groups)
+  - [1-2-4-All for Larger Groups](chapters/addendum-workshop-formats/#one-two-four-all-for-larger-groups)

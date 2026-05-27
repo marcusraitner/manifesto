@@ -36,7 +36,7 @@ The workshop described above can also be conducted with up to six groups in para
 
 When the groups switch to the next thesis, the moderator of this station can either replace the poster of the previous group with a new one or, as I prefer, briefly summarize the earlier results for the incoming group in the style of a World Cafe.
 
-## 1-2-4-All for Larger Groups {#1-2-4-all-for-larger-groups}
+## 1-2-4-All for Larger Groups {#one-two-four-all-for-larger-groups}
 
 For even larger groups, the "1-2-4-All" format from [Liberating Structures](https://www.liberatingstructures.com) is beneficial. I also often incorporate it for one or two selected theses as an interactive element in my keynotes on the Manifesto for Humane Leadership.
 
