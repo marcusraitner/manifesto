@@ -192,6 +192,6 @@ Google also realized that superstars alone do not make a team. As part of “Pro
 [^c6]: Yoshihito Wakamatsu, _The Toyota Mindset: The Ten Commandments of Taiichi Ohno_ (Enna Products Corporation, 2017).
 [^c7]: Richard Feynman, “Cargo Cult Science,” _Engineering and Science_ 37, no. 7 (June 1974): 10--13.
 [^c8]: Beck et al., “Manifesto for Agile Software Development,” <https://agilemanifesto.org>
-[^c9]: Margaret Heffernan, “Forget the Pecking Order at Work,” <https://www.ted.com/talks/margaret\_heffernan\_forget\_the\_pecking\_order\_at\_work>
+[^c9]: Margaret Heffernan, “Forget the Pecking Order at Work,” <https://www.ted.com/talks/margaret_heffernan_forget_the_pecking_order_at_work>
 [^c10]: Charles Duhigg, “What Google Learned From Its Quest to Build the Perfect Team,” _The New York Times_, February 25, 2016, sec. Magazine, <https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html>
 [^c11]: Heffernan, “Forget the Pecking Order at Work.”
