@@ -170,7 +170,7 @@ Google also realized that superstars alone do not make a team. As part of “Pro
 
 ---
 
-[^a1]: Gordon E. Moore, "Cramming More Components onto Integrated Circuits, Reprinted from Electronics, Volume 38, Number 8, April 19, 1965, Pp.114 Ff.," _IEEE Solid-State Circuits Society Newsletter_ 11, no. 3 (2006): 33--35, https://doi.org/10.1109/N-SSC.2006.4785860.
+[^a1]: Gordon E. Moore, "Cramming More Components onto Integrated Circuits, Reprinted from Electronics, Volume 38, Number 8, April 19, 1965, Pp.114 Ff.," _IEEE Solid-State Circuits Society Newsletter_ 11, no. 3 (2006): 33--35, <https://doi.org/10.1109/N-SSC.2006.4785860>.
 
 [^b1]: David J. Snowden and Mary E. Boone, “A Leader's Framework for Decision Making,” _Harvard Business Review_, November 2007, <https://hbr.org/2007/11/a-leaders-framework-for-decision-making>.
 [^b2]: Errol Morris, “The Anosognosic's Dilemma: Something's Wrong but You'll Never Know What It Is (Part 1),” _Opinionator_ (blog), June 20, 2010, <https://opinionator.blogs.nytimes.com/2010/06/20/the-anosognosics-dilemma-1/>.
@@ -191,7 +191,7 @@ Google also realized that superstars alone do not make a team. As part of “Pro
 [^c5]: Taiichi Ohno, _Toyota Production System: Beyond Large-Scale Production_ (CRC Press, 1988), 98.
 [^c6]: Yoshihito Wakamatsu, _The Toyota Mindset: The Ten Commandments of Taiichi Ohno_ (Enna Products Corporation, 2017).
 [^c7]: Richard Feynman, “Cargo Cult Science,” _Engineering and Science_ 37, no. 7 (June 1974): 10--13.
-[^c8]: Beck et al., “Manifesto for Agile Software Development,” https://agilemanifesto.org
-[^c9]: Margaret Heffernan, “Forget the Pecking Order at Work,” https://www.ted.com/talks/margaret\_heffernan\_forget\_the\_pecking\_order\_at\_work
+[^c8]: Beck et al., “Manifesto for Agile Software Development,” <https://agilemanifesto.org>
+[^c9]: Margaret Heffernan, “Forget the Pecking Order at Work,” <https://www.ted.com/talks/margaret\_heffernan\_forget\_the\_pecking\_order\_at\_work>
 [^c10]: Charles Duhigg, “What Google Learned From Its Quest to Build the Perfect Team,” _The New York Times_, February 25, 2016, sec. Magazine, <https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html>
 [^c11]: Heffernan, “Forget the Pecking Order at Work.”

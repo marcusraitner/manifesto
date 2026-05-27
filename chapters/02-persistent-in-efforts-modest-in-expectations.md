@@ -108,7 +108,7 @@ This choice has been there forever, but in this global crisis, it has become eve
 
 [^4]: Werner, _Womit ich nie gerechnet habe_, 173.
 
-[^5]: Kent Beck et al., "Manifesto for Agile Software Development," 2001, https://agilemanifesto.org/
+[^5]: Kent Beck et al., "Manifesto for Agile Software Development," 2001, <https://agilemanifesto.org/>
 
 [^6]: Douglas McGregor and Joel Cutcher-Gershenfeld, _The Human Side of Enterprise_, Annotated ed (New York: McGraw-Hill, 2006).
 

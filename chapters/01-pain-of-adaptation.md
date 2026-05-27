@@ -62,4 +62,4 @@ What felt like a pile of broken pieces at the moment, in retrospect, formed a ve
 [^2]: John C. Stepper, *Working out loud: a 12-week method to build new connections, a better career, and a more fulfilling life* (Vancouver, British Columbia: Page Two Books, 2020).
 [^3]: Marcus Raitner, *Manifest für menschliche Führung: Sechs Thesen für neue Führung im Zeitalter der Digitalisierung* (Independently Published, 2019).
 [^4]: Marcus Raitner, *Manifesto for Human(e) Leadership: Six Theses for New Leadership in the Age of Digitalization* (Amazon Digital Services LLC - KDP Print US, 2020).
-[^5]: Simon Wardley, "On Being Lost," *Wardleymaps* (blog), August 27, 2017, https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
+[^5]: Simon Wardley, "On Being Lost," *Wardleymaps* (blog), August 27, 2017, <https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec>

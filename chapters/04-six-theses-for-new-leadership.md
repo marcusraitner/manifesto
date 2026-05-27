@@ -132,9 +132,9 @@ Despite its size and core operating business, it is essential for Amazon's long-
 
 [^1]: Frédéric Laloux and Ken Wilber, *Reinventing Organizations: A Guide to Creating Organizations Inspired by the next Stage of Human Consciousness*, First edition (Brussels: Nelson Parker, 2014).
 
-[^2]: Kent Beck et al., "Manifesto for Agile Software Development," 2001, https://agilemanifesto.org/.
+[^2]: Kent Beck et al., "Manifesto for Agile Software Development," 2001, <https://agilemanifesto.org/>.
 
-[^3]: "Indicator: Employee Engagement," Gallup.com, accessed October 8, 2024, https://www.gallup.com/394373/indicator-employee-engagement.aspx.
+[^3]: "Indicator: Employee Engagement," Gallup.com, accessed October 8, 2024, <https://www.gallup.com/394373/indicator-employee-engagement.aspx>.
 
 [^4]: Peter F. Drucker and Joseph A. Maciariello, *Management*, Rev. ed (New York, NY: Collins, 2008), 191.
 
@@ -150,7 +150,7 @@ Despite its size and core operating business, it is essential for Amazon's long-
 
 [^10]: Kim Scott, *Radical Candor: Be a Kick-Ass Boss without Losing Your Humanity*, Fully revised & updated edition (New York: St. Martin's Press, 2019), 80.
 
-[^11]: John P. Kotter, "Accelerate!," *Harvard Business Review*, November 1, 2012, https://hbr.org/2012/11/accelerate.
+[^11]: John P. Kotter, "Accelerate!," *Harvard Business Review*, November 1, 2012, <https://hbr.org/2012/11/accelerate>.
 
 [^12]: Kotter.
 
@@ -164,4 +164,4 @@ Despite its size and core operating business, it is essential for Amazon's long-
 
 [^17]: *Designer's Digest - Steve Jobs on the role of product and marketing people.*, accessed July 14, 2023.
 
-[^18]: "PARC (Company)," in *Wikipedia*, August 30, 2024, https://en.wikipedia.org/w/index.php?title=PARC\_(company).
+[^18]: "PARC (Company)," in *Wikipedia*, August 30, 2024, <https://en.wikipedia.org/w/index.php?title=PARC\_(company)>.
