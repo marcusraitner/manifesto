@@ -29,6 +29,20 @@ permalink: /
   - [Network and Hierarchy](chapters/six-theses-for-new-leadership/#network-and-hierarchy)
   - [Encounter at Eye Level](chapters/six-theses-for-new-leadership/#encounter-at-eye-level)
   - [The Art of Ambidexterity](chapters/six-theses-for-new-leadership/#the-art-of-ambidexterity)
-- The 14 Principles Behind the Manifesto _(coming soon)_
+- [The 14 Principles Behind the Manifesto](chapters/the-14-principles-behind-the-manifesto/)
+  - [People are at the Center](chapters/the-14-principles-behind-the-manifesto/#people-are-at-the-center)
+  - [Start With Self-Care](chapters/the-14-principles-behind-the-manifesto/#start-with-self-care)
+  - [Strengthen Strengths](chapters/the-14-principles-behind-the-manifesto/#strengthen-strengths)
+  - [Leadership Means Relationship](chapters/the-14-principles-behind-the-manifesto/#leadership-means-relationship)
+  - [Context Not Control](chapters/the-14-principles-behind-the-manifesto/#context-not-control)
+  - [Gardener Not Chess Master](chapters/the-14-principles-behind-the-manifesto/#gardener-not-chess-master)
+  - [Principles Not Rules](chapters/the-14-principles-behind-the-manifesto/#principles-not-rules)
+  - [Less is More](chapters/the-14-principles-behind-the-manifesto/#less-is-more)
+  - [Questions Not Answers](chapters/the-14-principles-behind-the-manifesto/#questions-not-answers)
+  - [Trust Is the Foundation](chapters/the-14-principles-behind-the-manifesto/#trust-is-the-foundation)
+  - [Safety Not Fear](chapters/the-14-principles-behind-the-manifesto/#safety-not-fear)
+  - [He Who Says A Does Not Have to Say B](chapters/the-14-principles-behind-the-manifesto/#he-who-says-a-does-not-have-to-say-b)
+  - [Integrity Over Charisma](chapters/the-14-principles-behind-the-manifesto/#integrity-over-charisma)
+  - [Disturbing the Comfort Zone](chapters/the-14-principles-behind-the-manifesto/#disturbing-the-comfort-zone)
 - Get to Work! _(coming soon)_
 - Addendum: Workshop-Formats _(coming soon)_
