@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Six Theses for New Leadership
+title: Chapter 4 – Six Theses for New Leadership
 permalink: /chapters/six-theses-for-new-leadership/
 ---
 

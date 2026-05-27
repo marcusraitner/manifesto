@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pain of Adaptation
+title: Chapter 1 – Pain of Adaptation
 permalink: /chapters/pain-of-adaptation/
 ---
 
