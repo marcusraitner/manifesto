@@ -228,7 +228,7 @@ We trust another person if, first, the ideas, arguments, and competencies of the
 
 ![The three drivers of trust](https://substackcdn.com/image/fetch/$s_!yUYc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638b3017-ef74-4097-acc9-00061c703bf3_1394x1294.png)
 
-The three drivers of trust according to Frances Frei and Anne Morris.
+<p class="image-caption">The three drivers of trust according to Frances Frei and Anne Morris.</p>
 
 Leadership has to give orientation. In this respect, the dimension of _logic_ is about visions, ideas, and convincing arguments. The vision's attractiveness and the argumentation's coherence naturally play a significant role here. Those who are not convinced will only follow reluctantly.
 

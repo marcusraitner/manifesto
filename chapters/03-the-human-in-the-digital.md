@@ -96,7 +96,7 @@ The success of this tactic was not long in coming. Within a few months, the smal
 
 ![The Gossamer Albatross II on a test flight at NASA's Dryden Flight Research Center in Edwards, California.]({{ '/assets/images/chapters/03/ch3-gossamer-albatross.jpg' | relative_url }})
 
-The Gossamer Albatross II on a test flight at NASA's Dryden Flight Research Center in Edwards, California (Source: NASA).
+<p class="image-caption">The Gossamer Albatross II on a test flight at NASA's Dryden Flight Research Center in Edwards, California (Source: NASA).</p>
 
 The professional teams before him followed the rules of engineering. If this art made supersonic flight and landing on the moon possible, this seemingly simple problem could indeed be solved with it. However, the problem was more complex than initially thought. The same analytical approach to engineering that had continually improved aircraft construction over the decades could not deal with the complexity of human-powered flight.
 
@@ -124,7 +124,7 @@ A central element of Lean Management is, therefore, the elimination of waste. Th
 
 ![The seven types of waste (muda) in Lean Management.]({{ '/assets/images/chapters/03/ch3-seven-wastes.png' | relative_url }})
 
-The seven types of waste (muda) in Lean Management
+<p class="image-caption">The seven types of waste (muda) in Lean Management</p>
 
 Those seven types all relate to processes. They describe symptoms of weaknesses in work processes, the causes of which must be found and eliminated. Continuous process improvement, also known under the Japanese term _Kaizen_, is an essential element of the Toyota Production System. In contrast to the very Tayloristic view that prevailed at the time, however, this continuous improvement in Lean Management is not reserved for the manager but is the task of the “ordinary” workers—a small but significant difference.
 

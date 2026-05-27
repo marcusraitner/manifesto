@@ -58,7 +58,7 @@ The most fundamental task of leadership is to ensure a common direction. With th
 
 ![The tension between alignment and autonomy, according to Henrik Kniberg]({{ '/assets/images/chapters/04/ch4-alignment-autonomy.png' | relative_url }})
 
-The tension between alignment and autonomy, according to Henrik Kniberg
+<p class="image-caption">The tension between alignment and autonomy, according to Henrik Kniberg</p>
 
 Self-organizing teams are a core element of agility. The remarkable flexibility and customer focus of agile organizations result from the speed of *decentralized* decision-making. As Henrik Kniberg shows in the above illustration, autonomy requires alignment so everyone knows and works towards the common goal.
 

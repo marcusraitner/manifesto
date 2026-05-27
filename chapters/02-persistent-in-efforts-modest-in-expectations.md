@@ -68,7 +68,7 @@ Employees in the US have been quitting their jobs at an unusually high rate sinc
 
 ![JOLTS data chart]({{ '/assets/images/chapters/02/ch2-jolts.jpg' | relative_url }})
 
-Results of JOLTS (Job Openings and Labor Turnover Survey) of the Economic Policy Institute (as of October 2024)
+<p class="image-caption">Results of JOLTS (Job Openings and Labor Turnover Survey) of the Economic Policy Institute (as of October 2024)</p>
 
 The pandemic, with its drastic countermeasures, the politically fueled and massively media-amplified fear, and, last but not least, the experience of illness or death, has prompted many to reflect on their own lives and career choices. Everyone has those moments at the major crossroads of one's life. However, the pandemic hit the whole world simultaneously; thus, those individual moments of recollection manifest as a global trend.
 

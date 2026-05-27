@@ -96,7 +96,7 @@ Perhaps the Stoics' philosophy of life is being rediscovered because of these tu
 
 ![Beginning of the “Handbook” by Epictetus](https://substackcdn.com/image/fetch/$s_!Q1_p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc31394d7-0c2d-4a16-9f31-8623226e0fb3_600x1084.jpeg)
 
-Beginning of the “Handbook” by Epictetus, Greek-Latin edition with commentaries by Abraham Berkel, 1683.
+<p class="image-caption">Beginning of the “Handbook” by Epictetus, Greek-Latin edition with commentaries by Abraham Berkel, 1683.</p>
 
 Modern, career-oriented people tend to disagree with Epictetus reflexively and intuitively see wealth, prestige, and office as being in their power. After all, that is what our meritocracy is all about. But are these things entirely within our control? This may be the flaw in thinking that causes many people to become dissatisfied or even burn out.
 
