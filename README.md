@@ -1,6 +1,6 @@
 # Manifesto for Humane Leadership (Open Writing Project)
 
-This repository hosts the Markdown-first edition of the book for collaborative improvement.
+This repository hosts the Markdown-first edition of *Manifesto for Humane Leadership: Six Theses and 14 Principles for New Leadership in the Age of Digitalization* for collaborative improvement.
 
 ## MVP status
 

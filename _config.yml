@@ -1,12 +1,10 @@
 title: Manifesto for Humane Leadership
-description: Open, collaborative edition of the book
+description: Six Theses and 14 Principles for New Leadership in the Age of Digitalization
 repository_url: https://github.com/marcusraitner/manifesto
 theme: minima
 markdown: kramdown
 author: Marcus Raitner
 permalink: pretty
-header_pages:
-  - index.md
 plugins:
   - jekyll-relative-links
 relative_links:
