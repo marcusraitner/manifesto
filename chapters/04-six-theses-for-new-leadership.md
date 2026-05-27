@@ -164,4 +164,4 @@ Despite its size and core operating business, it is essential for Amazon's long-
 
 [^17]: *Designer's Digest - Steve Jobs on the role of product and marketing people.*, accessed July 14, 2023.
 
-[^18]: "PARC (Company)," in *Wikipedia*, August 30, 2024, <https://en.wikipedia.org/w/index.php?title=PARC\_(company)>.
+[^18]: "PARC (Company)," in *Wikipedia*, August 30, 2024, <https://en.wikipedia.org/w/index.php?title=PARC\ (company)>.
