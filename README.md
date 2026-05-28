@@ -1,42 +1,40 @@
-# Manifesto for Humane Leadership (Open Writing Project)
+# Manifesto for Humane Leadership
 
-This repository hosts the Markdown-first edition of the book for collaborative improvement.
+**Six theses and 14 principles for new leadership in the age of AI and digitalization.**
 
-## MVP status
+This book argues that the answer to the pressure of digital transformation is not faster, harder, or more efficient — but more human. It was originally written by [Marcus Raitner](https://raitner.de/en/) and is now published as an open writing project under [CC BY-SA 4.0](LICENSE).
 
-- GitHub Pages + Jekyll scaffold
-- Landing page with TOC
-- Chapter 1 migrated as Markdown
-- Section deep links
-- Native footnotes
+Read it at **[manifesto.raitner.de](https://manifesto.raitner.de)**.
 
-## Local structure
+---
 
-- `index.md` - landing page and TOC
-- `chapters/` - one Markdown file per chapter
-- `CONTRIBUTING.md` - contribution workflow
-- `CODE_OF_CONDUCT.md` - collaboration standards
-- `.github/workflows/link-check.yml` - link checking workflow
-- `.github/workflows/pages-deploy.yml` - GitHub Pages build/deploy workflow
+## Why open source?
+
+Leadership is a living practice, not a fixed doctrine. The world has changed significantly since this book was first written — AI in particular raises new questions about autonomy, purpose, and what it means to lead humans. This repository is an invitation to keep the conversation going.
+
+## How to contribute
+
+Contributions of all kinds are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Repository structure
+
+- `index.md` — landing page and table of contents
+- `chapters/` — one Markdown file per chapter
+- `assets/` — images and stylesheets
+- `CONTRIBUTING.md` — contribution guidelines
+- `CODE_OF_CONDUCT.md` — community standards
 
 ## Run locally
 
-Prerequisites: Ruby 3.x and Bundler (usually included with Ruby).
+Prerequisites: Ruby 3.x and Bundler.
 
 ```bash
-bundle install          # once, to install dependencies
+bundle install
 bundle exec jekyll serve
 ```
 
-The site is then available at <http://localhost:4000>. Jekyll watches for file changes and rebuilds automatically — just reload the browser.
-
-## GitHub Pages setup
-
-1. Push this repository to GitHub.
-2. In **Settings -> Pages**, set **Source** to **GitHub Actions**.
-3. Push to `main` to trigger deployment.
+The site is available at <http://localhost:4000> and rebuilds automatically on file changes.
 
 ## License
 
-This project is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
-See [`LICENSE`](LICENSE) for details.
+[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE)

@@ -17,11 +17,37 @@ h5,
 h6,
 .site-title,
 .site-nav {
-  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-family:
+    "Source Sans 3",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Arial,
+    sans-serif;
 }
 
 blockquote {
   margin-left: 1.5rem;
+}
+
+.site-title-block {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.site-subtitle {
+  font-family:
+    "Source Sans 3",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Arial,
+    sans-serif;
+  font-size: 1 rem;
+  color: #828282;
+  margin-top: 0.1rem;
+  padding-bottom: 0.2rem;
 }
 
 .site-header {
@@ -32,7 +58,7 @@ blockquote {
 }
 
 html {
-  scroll-padding-top: 4rem;
+  scroll-padding-top: 6rem;
 }
 
 .image-caption {
