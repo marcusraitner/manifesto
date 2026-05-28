@@ -8,7 +8,7 @@ The Manifesto for Humane Leadership is meant to be food for thought for reflecti
 
 In their specific format, all six theses of the Manifesto for Humane Leadership span a space for personal development. We can explore this space readily with a scaling question. More specifically, each thesis is given a scale from one to 10. For the first thesis, "Unleashing human potential more than employing human resources," this means that one corresponds to the classic use of human resources in the Taylorist machine model, and ten refers to the gardener's attitude that brings human potential to bloom.
 
-![The first thesis in the workshop format](https://substackcdn.com/image/fetch/$s_!1h28!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d40e572-23d2-4674-b2f1-3d4c2053c8ea_1654x1168.heic)
+![The first thesis in the workshop format]({{ '/assets/images/chapters/07/ch7-workshop-format.jpg' | relative_url }})
 
 <p class="image-caption">The first thesis in the workshop format</p>
 

@@ -7,11 +7,20 @@ author: Marcus Raitner
 permalink: pretty
 header_pages:
   - index.md
+logo: /assets/images/favicon-32.png
+og_image: /assets/images/og-image.jpg
+twitter:
+  card: summary_large_image
+
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
 relative_links:
   enabled: true
   collections: true
 kramdown:
   input: GFM
   auto_ids: true
+
+sass:
+  quiet_deps: true

@@ -4,7 +4,7 @@ title: Get to Work!
 permalink: /chapters/get-to-work/
 ---
 
-![Get to Work!](https://substackcdn.com/image/fetch/$s_!mxZr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde851c7-e76b-4fc6-b711-1a48353f4a95_1080x1080.heic)
+![Get to Work!]({{ '/assets/images/chapters/06/ch6-cover.jpg' | relative_url }})
 
 > All the maxims have been written. It only remains to put them into practice.
 >
@@ -46,7 +46,7 @@ Leaders who want to encourage rebels consciously promote diversity and dissent a
 
 Rebels need freedom to question the status quo and try out something new. Things get even better when not just a few select rebels have this freedom but as many as possible so that rebellious ideas can resonate in the organization. Everyone should be free to try things out and learn without getting lost in the mills of politics. Everyone should be free to think outside the box and question the status quo. And everyone should feel empowered and encouraged to make use of this freedom.
 
-![Set Priorities](https://substackcdn.com/image/fetch/$s_!mJcA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0662e0b2-2a4a-46cc-86d3-273bb548be05_1080x1080.png)
+![Set Priorities]({{ '/assets/images/chapters/06/ch6-set-priorities.png' | relative_url }})
 
 ## Set Priorities {#set-priorities}
 
@@ -70,7 +70,7 @@ However, the 4,000 weeks allotted to us are not _nothing_; they are a miracle in
 
 To make this choice amidst the daily chaos, we should heed the practical advice that Warren Buffett is said to have once given his pilot regarding how to set priorities in life. Buffet advised him to list twenty-five things he wanted to achieve and rank them in descending order of importance. The top five would then form the priorities according to which he should organize his life. However, he should not treat the other twenty as subordinate priorities that he could tackle if the opportunity arose but should avoid them at all costs. On the one hand, these other ambitions are not important enough to form the core of his life, but on the other hand, they are seductive enough to distract him from the essential things.[^p6-9]
 
-![Enduring Dissonance](https://substackcdn.com/image/fetch/$s_!EjOU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95526606-2b50-497f-997a-ad2d9d8b7f13_1080x1080.heic)
+![Enduring Dissonance]({{ '/assets/images/chapters/06/ch6-enduring-dissonance.jpg' | relative_url }})
 
 ## Enduring Dissonance {#enduring-dissonance}
 
@@ -94,7 +94,7 @@ Perhaps the Stoics' philosophy of life is being rediscovered because of these tu
 
 “God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” What the American theologian Reinhold Niebuhr asks for in this well-known Serenity Prayer, particularly the wisdom to distinguish between things within our control and those over which we have no power, is a central practice of the Stoics. Epictetus, for example, writes right at the beginning of his famous handbook: “Some things are up to us and some are not up to us.”[^p6-12] As a Stoic philosopher, he was concerned with distinguishing clearly between those two categories so that we can focus our attention on the things over which we truly have power. He then continues and gives examples of both categories: “Our opinions are up to us, and our impulses, desires, aversions—in short, whatever is our own doing. Our bodies are not up to us, nor are our possessions, our reputations, or our public offices, or, that is, whatever is not our own doing.”
 
-![Beginning of the “Handbook” by Epictetus](https://substackcdn.com/image/fetch/$s_!Q1_p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc31394d7-0c2d-4a16-9f31-8623226e0fb3_600x1084.jpeg)
+![Beginning of the “Handbook” by Epictetus]({{ '/assets/images/chapters/06/ch6-epictetus.jpg' | relative_url }})
 
 <p class="image-caption">Beginning of the “Handbook” by Epictetus, Greek-Latin edition with commentaries by Abraham Berkel, 1683.</p>
 

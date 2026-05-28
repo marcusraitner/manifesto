@@ -4,7 +4,7 @@ title: The 14 Principles Behind the Manifesto
 permalink: /chapters/the-14-principles-behind-the-manifesto/
 ---
 
-![The 14 Principles Behind the Manifesto](https://substackcdn.com/image/fetch/$s_!RbhR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6729ff2b-68cc-4774-80f9-76589750563e_1080x1080.heic)
+![The 14 Principles Behind the Manifesto]({{ '/assets/images/chapters/05/ch5-cover.jpg' | relative_url }})
 
 The [six theses of the Manifesto for Humane Leadership](../six-theses-for-new-leadership/) are deliberately kept open. They are a frame that is very broad but gives a rough direction. They are an invitation to reflect on leadership in general and your leadership style in particular. However, as with the “[Manifesto for Agile Software Development](https://agilemanifesto.org)”, more concrete and actionable principles underlie these theses.
 
@@ -42,7 +42,7 @@ However, no one will be satisfied and thrive in the long run in such an excessiv
 
 Leadership begins with self-care. Anselm Grün rightly demands that those who take responsibility for others must also deal responsibly with their own capacity. A leader who is at peace with himself and goes about his work with serenity and composure will also be imitated and will thus create a serene and safe atmosphere.
 
-![Unleashing Potential, Building Bridges](https://substackcdn.com/image/fetch/$s_!x2A7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F747bea28-c477-4f29-b6bf-3697ba98861d_1080x1080.heic)
+![Unleashing Potential, Building Bridges]({{ '/assets/images/chapters/05/ch5-unleashing-potential.jpg' | relative_url }})
 
 ## Strengthen Strengths {#strengthen-strengths}
 
@@ -84,7 +84,7 @@ The good word in the sense of the letter to the Ephesians is decisive for this e
 
 > Anyone who leads others must, above all, master the art of praise. Praise means speaking well of a person (benedicere) and saying good things about them and to them. Those who speak to the good in people also bring it out in them. With that, one motivates people more than through criticism and control.
 
-![Leading Like a Gardener](https://substackcdn.com/image/fetch/$s_!oDAZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd13866ff-0a88-4a7f-b806-249dbc0aee4d_1080x1080.heic)
+![Leading Like a Gardener]({{ '/assets/images/chapters/05/ch5-gardener.jpg' | relative_url }})
 
 ## Context Not Control {#context-not-control}
 
@@ -132,7 +132,7 @@ The task of the tomato plant is to grow and produce tomatoes; the gardener creat
 
 Good leadership has a leverage effect by making others successful and effective. Leaders who remain too much specialists—and, in the worst case, their best employees—neglect this leverage effect and thus their actual (new) task. The best tomato does not simply become a good gardener; at best, it becomes a kind of senior tomato who explains the trade to the junior tomatoes and, in doing so, enjoys this expert role far too much.
 
-![Busy Is Not Productive](https://substackcdn.com/image/fetch/$s_!59pR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F227cfade-a7a9-4368-a32e-351c89badd83_1080x1080.png)
+![Busy Is Not Productive]({{ '/assets/images/chapters/05/ch5-busy-not-productive.png' | relative_url }})
 
 ## Principles Not Rules {#principles-not-rules}
 
@@ -172,7 +172,7 @@ So if these great thinkers and artists agree that simplicity is the ultimate sop
 
 Perhaps we busy knowledge workers are just like Blaise Pascal; we simply don't have time to streamline our processes. However, the cause of this complication might lie much deeper in our human psyche. When searching for solutions, we primarily prefer to _add_ new elements instead of _removing_ parts, even if the latter would be significantly more efficient or cheaper. At least, that is what research results published in the journal “Nature” suggest.[^p5-37]
 
-![Lego experiment](https://substackcdn.com/image/fetch/$s_!Xvy6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1340dea7-9a27-4ec0-af47-5db722908452_564x317.webp)
+![Lego experiment]({{ '/assets/images/chapters/05/ch5-lego-experiment.webp' | relative_url }})
 
 In one experiment, participants were tasked with improving the stability of a LEGO building so that the roof would ultimately support a heavy load put onto it. Participants would receive a dollar if they succeeded, but each additional Lego brick used to stabilize the building cost 10 cents. Since the roof initially rested on a single LEGO brick far off the center, most participants added more bricks to stabilize the roof and support the heavy load. However, it would have been much easier and more profitable to remove the single stone at the edge of the roof, allowing it to rest stably on the rest of the structure.
 
@@ -184,7 +184,7 @@ When Jean François Zobrist found a worker waiting outside the warehouse during 
 
 So Jean François Zobrist abolished these and many other rules and organized FAVI into mini-factories of 15-35 employees, who made _all_ decisions for their respective customers (including the previously centralized functions of Sales, Planning, Engineering, HR, etc.). Here, too, fewer (uniform) rules did not lead to the feared chaos but to more personal responsibility and self-organization. The success of this transformation was remarkable: FAVI subsequently managed to grow from 80 to over 500 employees and continued to produce profitably in Europe with its above-average wages, where other suppliers had long since relocated production to the Far East.[^p5-39]
 
-![Leading with Trust](https://substackcdn.com/image/fetch/$s_!kwOu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F375abde9-8f39-4586-aeef-cc50b5cf2944_1080x1080.png)
+![Leading with Trust]({{ '/assets/images/chapters/05/ch5-leading-with-trust.png' | relative_url }})
 
 ## Questions Not Answers {#questions-not-answers}
 
@@ -226,7 +226,7 @@ The resulting obedience may be satisfying for rulers like Caligula, who score hi
 
 We trust another person if, first, the ideas, arguments, and competencies of the other person convince us (logic); second, if we perceive that person as sincerely human (authenticity); and third, if we feel that the other person is primarily concerned about us and the common cause (empathy). For Frances Frei and Anne Morriss, logic, authenticity, and empathy are the three drivers of trustful leadership relationships.[^p5-44] Trust is only established when all three drivers are balanced. As soon as _one_ of them is deficient, trust is lost, like a three-legged stool that wobbles or falls over if one leg is too short or breaks.
 
-![The three drivers of trust](https://substackcdn.com/image/fetch/$s_!yUYc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F638b3017-ef74-4097-acc9-00061c703bf3_1394x1294.png)
+![The three drivers of trust]({{ '/assets/images/chapters/05/ch5-three-drivers-trust.png' | relative_url }})
 
 <p class="image-caption">The three drivers of trust according to Frances Frei and Anne Morris.</p>
 
@@ -244,7 +244,7 @@ Sometimes, even small changes in behavior can significantly increase empathy. Fo
 
 > Signaling a lack of empathy is a major barrier to empowerment leadership. If people think you care more about yourself than about others, they won't trust you enough to lead them.
 
-![Drive out Fear](https://substackcdn.com/image/fetch/$s_!BMw4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb56024d8-8011-4d36-b24e-b8c3d3821ec3_1080x1080.heic)
+![Drive out Fear]({{ '/assets/images/chapters/05/ch5-drive-out-fear.jpg' | relative_url }})
 
 ## Safety Not Fear {#safety-not-fear}
 
@@ -306,7 +306,7 @@ Too often, however, our decisions in a private and professional context are inal
 
 In this sense, freely adapted from Reinhold Niebuhr: Give me the strength to stand my ground when I am right, the humility to admit mistakes when I am wrong, and the wisdom to know the difference.
 
-![Leading with Integrity](https://substackcdn.com/image/fetch/$s_!WrWe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31f69683-9b24-4760-b01d-744892e562af_1080x1080.heic)
+![Leading with Integrity]({{ '/assets/images/chapters/05/ch5-leading-with-integrity.jpg' | relative_url }})
 
 ## Integrity Over Charisma {#integrity-over-charisma}
 

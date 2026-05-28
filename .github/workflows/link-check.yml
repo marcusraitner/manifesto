@@ -20,12 +20,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-
-      - name: Install Jekyll
-        run: gem install jekyll minima jekyll-relative-links --no-document
+          bundler-cache: true
 
       - name: Build site
-        run: jekyll build
+        run: bundle exec jekyll build
 
       - name: Check links
         uses: lycheeverse/lychee-action@v2

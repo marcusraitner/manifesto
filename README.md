@@ -19,6 +19,17 @@ This repository hosts the Markdown-first edition of the book for collaborative i
 - `.github/workflows/link-check.yml` - link checking workflow
 - `.github/workflows/pages-deploy.yml` - GitHub Pages build/deploy workflow
 
+## Run locally
+
+Prerequisites: Ruby 3.x and Bundler (usually included with Ruby).
+
+```bash
+bundle install          # once, to install dependencies
+bundle exec jekyll serve
+```
+
+The site is then available at <http://localhost:4000>. Jekyll watches for file changes and rebuilds automatically — just reload the browser.
+
 ## GitHub Pages setup
 
 1. Push this repository to GitHub.
