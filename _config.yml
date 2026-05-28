@@ -1,5 +1,7 @@
 title: Manifesto for Humane Leadership
 description: Open, collaborative edition of the book
+url: "https://manifesto.raitner.de"
+baseurl: ""
 repository_url: https://github.com/marcusraitner/manifesto
 theme: minima
 markdown: kramdown
