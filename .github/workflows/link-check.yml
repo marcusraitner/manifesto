@@ -43,6 +43,7 @@ jobs:
             --exclude "https://doi.org/10.1037/h0044683"
             --exclude "https://quoteinvestigator.com/2011/01/27/what-you-do-speaks/"
             --exclude "https://sgbs.ch/ueber-uns/management-valley-st-gallen/knut-bleicher/"
+            --exclude "^https://manifesto\\.raitner\\.de/404\\.html$"
             "./_site/**/*.html"
           fail: true
         env:
