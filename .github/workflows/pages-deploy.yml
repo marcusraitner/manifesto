@@ -25,11 +25,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
