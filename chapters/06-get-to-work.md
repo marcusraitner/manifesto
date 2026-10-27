@@ -117,7 +117,7 @@ The goals we set ourselves make all the difference. Training to the best of our 
 [^p6-3]: Blaise Pascal and J.F. Kleuker, _Gedanken_ (bei Johann Heinrich Cramer, 1777), 221.
 [^p6-4]: Lucius Annaeus Seneca and Charles D. N. Costa, _On the Shortness of Life_, Great Ideas 1 (London: Penguin Books, 2004), 1.
 [^p6-5]: Oliver Burkeman, _Four Thousand Weeks: Time and How to Use It_ (Random House, 2021), 3.
-[^p6-6]: Greg McKeown, “Identifying Your Circle of Competence with Kyle Westaway (Part 2),” The Greg McKeown Podcast, accessed September 1, 2023, <https://podcasts.apple.com/us/podcast/161-identifying-your-circle-of-competencies-with/id1513285647?i=1000594365635>.
+[^p6-6]: Greg McKeown, “Identifying Your Circle of Competence with Kyle Westaway (Part 2),” The Greg McKeown Podcast, accessed September 1, 2023, <https://podcasts.apple.com/us/podcast/163-identifying-your-circle-of-competence-with/id1513285647?i=1000595386497>.
 [^p6-7]: Cal Newport, “Why Do We Work Too Much?,” _The New Yorker_, August 30, 2021, <https://www.newyorker.com/culture/office-space/why-do-we-work-too-much>.
 [^p6-8]: Gunter Dueck, _Schwarmdumm: so blöd sind wir nur gemeinsam_ (Frankfurt am Main: Campus-Verl, 2015), 61.
 [^p6-9]: Burkeman, _Four Thousand Weeks_, 77f.
