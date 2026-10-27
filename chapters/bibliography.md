@@ -118,7 +118,7 @@ McGregor, Douglas, and Joel Cutcher-Gershenfeld. _The Human Side of Enterprise_.
 
 McKeown, Greg. _Effortless: Make It Easier to Do What Matters Most_. New York: Currency, 2021.
 
-———. "[Identifying Your Circle of Competence with Kyle Westaway (Part 2)](https://podcasts.apple.com/us/podcast/161-identifying-your-circle-of-competencies-with/id1513285647?i=1000594365635)." The Greg McKeown Podcast. Accessed September 1, 2023.
+———. "[Identifying Your Circle of Competence with Kyle Westaway (Part 2)](https://podcasts.apple.com/us/podcast/163-identifying-your-circle-of-competence-with/id1513285647?i=1000595386497)." The Greg McKeown Podcast. Accessed September 1, 2023.
 
 McNichol, Tom. "[Roads Gone Wild](https://www.wired.com/2004/12/traffic/)." _Wired_, December 1, 2004.
 
