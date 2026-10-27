@@ -144,9 +144,11 @@ Ohno, Taiichi. _Toyota Production System: Beyond Large-Scale Production_. CRC Pr
 
 Parkinson, C. Northcote. "Parkinson's Law." _The Economist_ 177, no. 5856 (November 19, 1955): 635–37.
 
-Pascal, Blaise, and J. F. Kleuker. _Gedanken_. Johann Heinrich Cramer, 1777.
+Pascal, Blaise. _Gedanken Paskals_. Edited by J. F. Kleuker. Bremen: Johann Heinrich Cramer, 1777.
 
-Pascal, Blaise, Friedrich Ludolf Lachmann, and Christian Friedrich Helwing. _Provinzialbriefe über die Sittenlehre und Politik der Jesuiten_. Theil 2. 1792.
+Pascal, Blaise. _The Provincial Letters of Blaise Pascal_. Translated by Thomas M'Crie. New York: Robert Carter & Brothers, 1856. <https://www.gutenberg.org/ebooks/73959>.
+
+Pascal, Blaise. _Provinzialbriefe über die Sittenlehre und Politik der Jesuiten_. Theil 2. Meyersche Buchhandlung, 1792.
 
 Peters, Tom. "Rule #3: Leadership Is Confusing As Hell." _Fast Company_, no. 44 (February 28, 2001).
 

@@ -114,7 +114,7 @@ The goals we set ourselves make all the difference. Training to the best of our 
 
 [^p6-1]: “What You Do Speaks So Loudly That I Cannot Hear What You Say -- Quote Investigator®,” January 27, 2011, <https://quoteinvestigator.com/2011/01/27/what-you-do-speaks/>.
 [^p6-2]: Netflix, “Netflix Culture,” accessed March 20, 2022, <https://jobs.netflix.com/culture>.
-[^p6-3]: Blaise Pascal and J.F. Kleuker, _Gedanken_ (bei Johann Heinrich Cramer, 1777), 221.
+[^p6-3]: Blaise Pascal, _Gedanken Paskals_, ed. J. F. Kleuker (Bremen: Johann Heinrich Cramer, 1777), 221.
 [^p6-4]: Lucius Annaeus Seneca and Charles D. N. Costa, _On the Shortness of Life_, Great Ideas 1 (London: Penguin Books, 2004), 1.
 [^p6-5]: Oliver Burkeman, _Four Thousand Weeks: Time and How to Use It_ (Random House, 2021), 3.
 [^p6-6]: Greg McKeown, “Identifying Your Circle of Competence with Kyle Westaway (Part 2),” The Greg McKeown Podcast, accessed September 1, 2023, <https://podcasts.apple.com/us/podcast/163-identifying-your-circle-of-competence-with/id1513285647?i=1000595386497>.
