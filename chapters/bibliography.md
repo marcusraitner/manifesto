@@ -52,13 +52,13 @@ Festinger, Leon, Henry W. Riecken, and Stanley Schachter. _When Prophecy Fails_.
 
 Feynman, Richard. "Cargo Cult Science." _Engineering and Science_ 37, no. 7 (June 1974): 10–13.
 
-Frei, Frances X., and Anne Morris. "[Begin with Trust](https://hbr.org/2020/05/begin-with-trust)." _Harvard Business Review_, May–June 2020.
+Frei, Frances X., and Anne Morriss. "[Begin with Trust](https://hbr.org/2020/05/begin-with-trust)." _Harvard Business Review_, May–June 2020.
 
 Frei, Frances X., and Anne Morriss. _Unleashed: The Unapologetic Leader's Guide to Empowering Everyone around You_. Boston: Harvard Business Review Press, 2020.
 
 Fried, Jason, and David Heinemeier Hansson. _Remote: Office Not Required_. London: Vermilion, 2013.
 
-———. _Rework_. München: Riemann, 2010.
+———. _ReWork: Change the Way You Work Forever_. London: Vermilion, 2010.
 
 Frost, Robert. "[A Group of Poems](https://www.theatlantic.com/magazine/archive/1915/08/a-group-of-poems/306620/)." _The Atlantic_, August 1, 1915.
 
@@ -73,6 +73,8 @@ Glucksberg, Sam. "The Influence of Strength of Drive on Functional Fixedness and
 Grant, Adam. "[Daniel Kahneman Doesn't Trust Your Intuition](https://www.ted.com/talks/taken_for_granted_daniel_kahneman_doesn_t_trust_your_intuition)." Taken for Granted. Accessed March 25, 2022.
 
 Grün, Anselm. _Menschen führen — Leben wecken_. 4. Aufl. München: Deutscher Taschenbuch-Verlag, 2007.
+
+Hastings, Reed. "[Culture](https://www.slideshare.net/reed2001/culture-1798664)." SlideShare.
 
 Heffernan, Margaret. "[Forget the Pecking Order at Work](https://www.ted.com/talks/margaret_heffernan_forget_the_pecking_order_at_work)." TED, May 2015.
 
@@ -148,6 +150,8 @@ Parkinson, C. Northcote. "Parkinson's Law." _The Economist_ 177, no. 5856 (Novem
 
 Pascal, Blaise. _Gedanken_. 1777.
 
+———. _Provinzialbriefe über die Sittenlehre und Politik der Jesuiten_. Theil 2. 1792.
+
 Peters, Tom. "Rule #3: Leadership Is Confusing As Hell." _Fast Company_, no. 44 (February 28, 2001).
 
 Plato. _Sämtliche Werke_, Vol. II. Zürich: Artemis Verlag, 1974.
@@ -161,8 +165,6 @@ Raitner, Marcus. "[The Workshop on the Manifesto for Human(e) Leadership](https:
 ———. _Manifest für menschliche Führung_. Independently Published, 2019.
 
 ———. _Manifesto for Human(e) Leadership_. Amazon Digital Services, 2020.
-
-Hastings, Reed. "[Culture](https://www.slideshare.net/reed2001/culture-1798664)." SlideShare.
 
 Schein, Edgar H., and Peter A. Schein. _Humble Inquiry_. 2nd ed. Oakland: Berrett-Koehler, 2021.
 
@@ -185,6 +187,8 @@ St. Gallen Business School. "[Knut Bleicher](https://sgbs.ch/ueber-uns/managemen
 Stepper, John C. _Working out Loud_. Vancouver: Page Two Books, 2020.
 
 Toyota Motor Corporation. "[Toyota Way 2020](https://global.toyota/en/company/vision-and-philosophy/toyotaway_code-of-conduct/index.html)." 2020.
+
+United States Department of State. _The Department of State Bulletin_. Vol. 30. Office of Public Communication, Bureau of Public Affairs, 1954.
 
 Vasel, Kathryn. "[These Companies Decided to Go Fully Remote — Permanently](https://www.cnn.com/2022/01/27/success/full-time-remote-decision-pandemic/index.html)." CNN, January 27, 2022.
 
