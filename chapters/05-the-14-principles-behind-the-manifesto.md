@@ -398,8 +398,8 @@ Leaders must not just manage and maintain the status quo; they must constantly c
 [^p5-42]: Diana Bass, “Satya Nadella Talks Microsoft at Middle Age,” Bloomberg Businessweek, August 4, 2016, <https://www.bloomberg.com/features/2016-satya-nadella-interview-issue/>.
 [^p5-43]: Risto Siilasmaa, _Transforming Nokia: The Power of Paranoid Optimism to Lead through Colossal Change_ (New York: McGraw-Hill, 2019), 54.
 [^p5-44]: Frances X. Frei and Anne Morriss, _Unleashed: The Unapologetic Leader's Guide to Empowering Everyone around You_ (Boston, MA: Harvard Business Review Press, 2020).
-[^p5-45]: Frances X. Frei and Anne Morris, “Begin with Trust,” _Harvard Business Review_, no. May-June 2020 (May 1, 2020), <https://hbr.org/2020/05/begin-with-trust>.
-[^p5-46]: Frei and Morris, “Begin with Trust.”
+[^p5-45]: Frances X. Frei and Anne Morriss, “Begin with Trust,” _Harvard Business Review_, no. May-June 2020 (May 1, 2020), <https://hbr.org/2020/05/begin-with-trust>.
+[^p5-46]: Frei and Morriss, “Begin with Trust.”
 [^p5-47]: Peter F. Drucker and Joseph A. Maciariello, _Management_, Rev. ed (New York, NY: Collins, 2008), 258.
 [^p5-48]: Sam Glucksberg, “The Influence of Strength of Drive on Functional Fixedness and Perceptual Recognition.,” _Journal of Experimental Psychology_ 63, no. 1 (January 1962): 36-41, <https://doi.org/10.1037/h0044683>.
 [^p5-49]: W. Edwards Deming, _Out of the Crisis_ (Cambridge, Mass: Massachusetts Institute of Technology, Center for Advanced Engineering Study, 1986), 23f.
