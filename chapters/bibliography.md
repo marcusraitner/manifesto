@@ -20,8 +20,6 @@ Burkeman, Oliver. _Four Thousand Weeks: Time and How to Use It_. Random House, 2
 
 Cohen, Arianne. "How to Quit Your Job in the Great Post-Pandemic Resignation Boom." Bloomberg Businessweek, May 10, 2021. <https://www.bloomberg.com/news/articles/2021-05-10/quit-your-job-how-to-resign-after-covid-pandemic>.
 
-Colonna, Jerry. _Reboot: Leadership and the Art of Growing Up_. New York: HarperBusiness, 2019.
-
 Deming, W. Edwards. _Out of the Crisis_. Cambridge, Mass: MIT, 1986.
 
 "[Designer's Digest — Steve Jobs on the role of product and marketing people](https://www.youtube.com/watch?v=P4VBqTViEx4)." Accessed July 14, 2023.
@@ -56,9 +54,7 @@ Frei, Frances X., and Anne Morriss. "[Begin with Trust](https://hbr.org/2020/05/
 
 Frei, Frances X., and Anne Morriss. _Unleashed: The Unapologetic Leader's Guide to Empowering Everyone around You_. Boston: Harvard Business Review Press, 2020.
 
-Fried, Jason, and David Heinemeier Hansson. _Remote: Office Not Required_. London: Vermilion, 2013.
-
-———. _ReWork: Change the Way You Work Forever_. London: Vermilion, 2010.
+Fried, Jason, and David Heinemeier Hansson. _ReWork: Change the Way You Work Forever_. London: Vermilion, 2010.
 
 Frost, Robert. "[A Group of Poems](https://www.theatlantic.com/magazine/archive/1915/08/a-group-of-poems/306620/)." _The Atlantic_, August 1, 1915.
 
@@ -148,13 +144,11 @@ Ohno, Taiichi. _Toyota Production System: Beyond Large-Scale Production_. CRC Pr
 
 Parkinson, C. Northcote. "Parkinson's Law." _The Economist_ 177, no. 5856 (November 19, 1955): 635–37.
 
-Pascal, Blaise. _Gedanken_. 1777.
+Pascal, Blaise, and J. F. Kleuker. _Gedanken_. Johann Heinrich Cramer, 1777.
 
-———. _Provinzialbriefe über die Sittenlehre und Politik der Jesuiten_. Theil 2. 1792.
+Pascal, Blaise, Friedrich Ludolf Lachmann, and Christian Friedrich Helwing. _Provinzialbriefe über die Sittenlehre und Politik der Jesuiten_. Theil 2. 1792.
 
 Peters, Tom. "Rule #3: Leadership Is Confusing As Hell." _Fast Company_, no. 44 (February 28, 2001).
-
-Plato. _Sämtliche Werke_, Vol. II. Zürich: Artemis Verlag, 1974.
 
 Popper, Karl Raimund. _Logik der Forschung_. 10. Aufl. Tübingen: J. Mohr, 1994.
 
