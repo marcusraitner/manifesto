@@ -14,6 +14,7 @@ done > build/drop.sed || true
     printf '\n\n# %s {.unnumbered}\n\n' "$title"
     # drop front matter, turn Jekyll image links into plain paths
     awk '/^---$/ && n<2 {n++; next} n>=2' "$f" |
+      case $f in *bibliography*) perl -pe 's/\[([^\]]+)\]\((https?:[^)]+)\)/$1/ and do { $u=$2; s{\s*$}{ <$u>\n} }' ;; *) cat ;; esac |
       sed -E "s#\{\{ *'([^']+)' *\| *relative_url *\}\}#\1#; s#\]\(/assets#](assets#"
   done
 } | sed -E -f build/drop.sed > build/book.md
